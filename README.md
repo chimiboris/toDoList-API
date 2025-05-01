@@ -14,5 +14,6 @@ ou
 ## 🚀 Commande pour le lancement de l'application
 ```bash
 mvn spring-boot:run
+ou utilisez le bouton "run" de votre IDE comme intellij par exemple
 
 
