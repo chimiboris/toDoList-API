@@ -17,7 +17,7 @@ Ouvrir le dossier du projet dans IntelliJ IDEA
 Laisser l'IDE configurer les dépendances automatiquement
 
 
-Créer une base de données PostgreSQL nommée blogDB via pgAdmin, ou alors vous pouvez aussi aussi créer une base de donnée avec un autre nom, il vous suffira juste de modifier les informations de l'application dans le fichier "application.properties" ou "application.yml" pour les adapter aux votres.
+Créer une base de données PostgreSQL nommée todolist via pgAdmin, ou alors vous pouvez aussi aussi créer une base de donnée avec un autre nom, il vous suffira juste de modifier les informations de l'application dans le fichier "application.properties" ou "application.yml" pour les adapter aux votres.
 
 
 Compilation et lancement :
